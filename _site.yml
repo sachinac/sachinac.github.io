@@ -1,0 +1,12 @@
+name: "Sachin Chavan"
+navbar:
+  title: "Machine Learning"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Breweries"
+      href:  Beers_Analysis.html
+    - text: "Shiny Pages"
+      href: https://sachinac.shinyapps.io/Breweries_Analysis/
+    - text: "About"
+      href:  about.html
