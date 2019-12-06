@@ -4,9 +4,13 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "Breweries"
+    - text: "Case Study 01"
       href:  Beers_Analysis.html
-    - text: "Shiny Pages"
+    - text: "Shiny Case Study 01"
       href: https://sachinac.shinyapps.io/Breweries_Analysis/
+    - text: "Case Study 02"
+      href:  cs02/predict_attrition.html
+    - text: "Shiny Case Study 02"
+      href:  https://sachinac.shinyapps.io/msds_rshiny_cs02/
     - text: "About"
       href:  about.html
