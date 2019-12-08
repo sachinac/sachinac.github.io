@@ -12,5 +12,7 @@ navbar:
       href:  cs02/predict_attrition.html
     - text: "Shiny Case Study 02"
       href:  https://sachinac.shinyapps.io/msds_rshiny_cs02/
+    - text: "MSDS 6372"
+      href:  msds6372/msds_6372_project.html
     - text: "About"
       href:  about.html
