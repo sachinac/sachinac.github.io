@@ -14,5 +14,9 @@ navbar:
       href:  https://sachinac.shinyapps.io/msds_rshiny_cs02/
     - text: "MSDS 6372"
       href:  msds6372/msds_6372_project.html
+    - text: "MSDS 6373"
+      href:  msds6373/mid_term_th.html
+      
     - text: "About"
       href:  about.html
+
