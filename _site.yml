@@ -16,7 +16,8 @@ navbar:
       href:  msds6372/msds_6372_project.html
     - text: "MSDS 6373"
       href:  msds6373/mid_term_th.html
-      
+    - text: "MSDS 6373 Project"
+      href:  msds6373/6373_Project.html
     - text: "About"
       href:  about.html
 
