@@ -18,6 +18,9 @@ navbar:
       href:  msds6373/mid_term_th.html
     - text: "MSDS 6373 Project"
       href:  msds6373/6373_Project.html
+    - text: "MSDS 6373 Final Take Home"
+      href:  msds6373/final_exam.html
+      
     - text: "About"
       href:  about.html
 
