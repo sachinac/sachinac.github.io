@@ -1,4 +1,5 @@
-John bootstrap one page HTML5 free resume template is a flat clean designed template for a profissional online resume. This template fits for Webdesigner, Web UI Developer, UX/UI Developer, developer/Programmer’s portfolio. This is a clean responsive web design template you can use for personal portfolio’s websites to show case your work and CV or Resume template. This template is built on Bootstrap framework which give flexibilty to customeise the theme easly as per the user requirements. All latest technology HTML5 CSS3, jQuery and bootstrap. Download it free now!
+
+John bootstrap one page HTML5 free resume template is a flat clean designed template for a profissional online resume. This template fits for Webdesigner, Web UI Developer, UX/UI Developer, developer/Programmerâ€™s portfolio. This is a clean responsive web design template you can use for personal portfolioâ€™s websites to show case your work and CV or Resume template. This template is built on Bootstrap framework which give flexibilty to customeise the theme easly as per the user requirements. All latest technology HTML5 CSS3, jQuery and bootstrap. Download it free now!
 
 Key features
 -------------
@@ -33,7 +34,7 @@ License :
 
 - You are allowed to use all files for both personal and commercial projects.
 
-- If you use/modify the resources in your projects,we’d appreciate a linkback to this site.
+- If you use/modify the resources in your projects,weâ€™d appreciate a linkback to this site.
 
 - You do not have rights to redistribute,resell or offer files from this site to any third party
 
